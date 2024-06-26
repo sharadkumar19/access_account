@@ -13,6 +13,7 @@ function App() {
           <input type="text" placeholder='last name' />
         </div>
         <input className='adjust' type="email" placeholder='Email address' /> <br />
+        <input className='adjust' type="email" placeholder='Re-type Email address' /> <br />
         <input className='adjust' type="text" placeholder='address' />
         <div className="multi-feilds">
           <input type="text" placeholder='city' />
